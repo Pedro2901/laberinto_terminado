@@ -1,3 +1,3 @@
-# Path Finder
+# Laberinto
 
-![pathFinder](https://user-images.githubusercontent.com/4458129/161363964-f73e76d4-3763-4a82-ad93-ffc2ade5f7a2.gif)
+![Animation](https://user-images.githubusercontent.com/81445251/166175020-38bc577f-0c99-4711-8f01-8c030bbd2cdb.gif)
